@@ -44,7 +44,7 @@ The program generates a shuffled dataset of floating-point numbers, sorts the da
 
 ```bash
 git clone https://github.com/NikodemMlynski/sorting_algorithms_speed.git
-cd <your_repo>
+cd sorting_algorithms_speed
 ```
 
 ### Set Up the Environment
