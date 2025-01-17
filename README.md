@@ -43,7 +43,7 @@ The program generates a shuffled dataset of floating-point numbers, sorts the da
 ### Clone the Repository
 
 ```bash
-git clone https://<your_access_token>@github.com/<your_username>/<your_repo>.git
+git clone https://github.com/NikodemMlynski/sorting_algorithms_speed.git
 cd <your_repo>
 ```
 
