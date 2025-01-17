@@ -18,7 +18,7 @@ The program generates a shuffled dataset of floating-point numbers, sorts the da
 
 1. **Data Generation:**
 
-   - A Python script generates a file (`numbers.txt`) containing 10,000 floating-point numbers ranging from 0.01 to 99.99, shuffled randomly.
+   - A Python script generates a file (`array.txt`) containing 10,000 floating-point numbers ranging from 0.01 to 99.99, shuffled randomly.
 
 2. **Sorting:**
 
@@ -84,7 +84,7 @@ pip install -r requirements.txt
    python generate_array.py
    ```
 
-   This creates the file `numbers.txt` with 10,000 shuffled numbers.
+   This creates the file `array.txt` with 10,000 shuffled numbers.
 
 2. **Run Sorting Algorithms**
 
@@ -116,7 +116,7 @@ Ensure all dependencies are listed in `requirements.txt` for easy installation.
 
 - Make sure a C++ compiler (e.g., `g++`) is installed and accessible in your system's PATH.
 - The C++ program must be compiled before running it. You can modify the script to automate this process.
-- Ensure that `numbers.txt` exists before running the sorting programs.
+- Ensure that `array.txt` exists before running the sorting programs.
 
 ## Sample Results
 
